@@ -1,0 +1,2 @@
+This project used queues to simulate waiting in a bank
+The program will output the average wait time of a customer given the amount of tellers and average transaction time
